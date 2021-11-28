@@ -1,1 +1,1 @@
-# python_simple_pendu
+# Python : Création d'un pendu
