@@ -1,0 +1,9 @@
+liste_des_mots = [["Axe","Bel","Bip","Car","Col","Coq","Cor","Cou","Cri","Gag","Gaz","Gel","Jus","Net","Nul","Val","Ski","Sot","Tas","Tic"],
+                  ["Beau","Bête","Boxe","Brun","Cerf","Chez","Cire","Dame","Dent","Dodo","Drap","Dune","Emeu","Faux","Jazz","Joli","Joue","Kaki","Logo","Loin","Long","Lune","Ours","Pion","Ride","Rock","Seau","Test","Trou","Truc","User","Vert"],
+                  ["Aimer","Assez","Avion","Balai","Banjo","Barbe","Bonne","Bruit","Buche","Cache","Capot","Carte","Chien","Cycle","Essai","Gifle","Jambe","Koala","Livre","Lourd","Maman","Ortie","Poire","Pomme","Poste","Prune","Radar","Radis","Robot","Route","Rugby","Seuil","Taupe","Tenue","Texte","Valse"],
+                  ["Agneau","Alarme","Ananas","Angora","Animal","Arcade","Aviron","Babine","Balade","Billet","Bouche","Boucle","Bronze","Cabane","Cloche","Chèque","Cirage","Crayon","Garage","Gramme","Grelot","Humour","Hurler","Jargon","Limite","Lionne","Menthe","Oiseau","Podium","Poulpe","Poumon","Puzzle","Rapide","Tomate"],
+                  ["Abriter","Bassine","Batavia","Billard","Chariot","Clairon","Corbeau","Crapaud","Dentier","Drapeau","Exemple","Fourmis","Grandir","Iceberg","Javelot","Journal","Losange","Mondial","Notable","Panique","Poterie","Pouvoir","Scooter"],
+                  ["Aquarium","Archipel","Banquise","Batterie","Brocante","Gangster","Gothique","Logiciel","Objectif","Parcours","Question","Scorpion","Toujours","Tourisme","Triangle","Utopique"],
+                  ["Ascenseur","Ascension","Autoroute","Avalanche","Brillance","Cabriolet","Contraire","Cornemuse","Dangereux","Gondolier","Graphique","Horoscope","Printemps","Vestiaire"],
+                  ["Acrostiche","Apocalypse","Attraction","Aventurier","Bouillotte","Citrouille","Coquelicot","Dissimuler","Grenouille","Impossible","Labyrinthe","Subjective"]
+                  ]
